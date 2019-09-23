@@ -14,7 +14,157 @@
 
 				]
 			}, 
-				{
+			{
+				"title": "Football Time",
+				"provider": "youtube",
+				"arguments": [
+					"UCd7IwXypbwxoIsqbQZUDZjg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "koraRocet",
+				"provider": "youtube",
+				"arguments": [
+					"UC8ud_349w5ryCuq6Ejf8nLA",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Gsm AToZ",
+				"provider": "youtube",
+				"arguments": [
+					"UCBPxmiKCicNvFWAzaadFN0w",
+					"channel"
+
+				]
+			},
+			{
+				"title": "TOP Football.TN",
+				"provider": "youtube",
+				"arguments": [
+					"UCmpaP5sOoAysK02F6cJrPpg",
+					"channel"
+
+				]
+			},
+      
+      {
+				"title": "Sport.foot",
+				"provider": "youtube",
+				"arguments": [
+					"UCdMFftdC6sFn19ip6hgCj3Q",
+					"channel"
+
+				]
+			},
+      {
+				"title": "الدوري المصري",
+				"provider": "youtube",
+				"arguments": [
+					"UCB36jBOj5L5YcwUGj82rOCQ",
+					"channel"
+
+				]
+			},
+      {
+				"title": "Foot",
+				"provider": "youtube",
+				"arguments": [
+					"UCv3pLbsL7YtjugU4ZIXqg7Q",
+					"channel"
+
+				]
+			},
+      {
+				"title": "الدوري المغربي ",
+				"provider": "youtube",
+				"arguments": [
+					"UCEKdxDkET7eUg6kaY5Q4Njg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Maroc sport",
+				"provider": "youtube",
+				"arguments": [
+					"UCTtpwRadkDzQtmQb9hu2o9w",
+					"channel"
+
+				]
+			},
+      {
+				"title": "Koora4U",
+				"provider": "youtube",
+				"arguments": [
+					"UC8D2Nc8E26cw7Jj9SJIFo6Q",
+					"channel"
+
+				]
+			},
+      
+      
+      {
+				"title": "Sky Football",
+				"provider": "youtube",
+				"arguments": [
+					"UC7fUgGpMpA4tHqeBFa-aPlQ",
+					"channel"
+
+				]
+			},
+      
+     {
+				"title": "Be sport Tv",
+				"provider": "youtube",
+				"arguments": [
+					"UCFzNxaxHBurA4w9hTsXNxHg",
+					"channel"
+
+				]
+			}, 
+      
+			{
+				"title": "YB FOOTBALL",
+				"provider": "youtube",
+				"arguments": [
+					"UC0itBxKas_OvtriER42csQQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "FootballMinds",
+				"provider": "youtube",
+				"arguments": [
+					"UCTdML4t_wl59_3WoWg8jTlQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Football Legion",
+				"provider": "youtube",
+				"arguments": [
+					"UCwwKf9PggWRo6pkigs74MDA",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Africa Champions",
+				"provider": "youtube",
+				"arguments": [
+					"UCoBR0t1dgJj6hRbHASrmyFQ",
+					"channel"
+
+				]
+			},
+			
+			{
 				"title": "المحترفين المصريين",
 				"provider": "youtube",
 				"arguments": [
@@ -27,158 +177,86 @@
 		]
 	},
  
-  {
-		"title": "A propos",
+ {
+		"title": "رابط 1 مباشر",
 		"drawable": "",
-		"submenu": "autres",
+		"submenu": " تغطية لجلّ المباريات ",
 		"iap": false,
 		"tabs": [{
-			"title": "",
-			"provider": "custom",
+			"title": "webview",
+			"provider": "webview",
 			"arguments": [
-				"com.knoooz.ifriki.SettingsFragment", "fragment"
+				"http://kora-online.tv/"
 			]
 		}]
-	}
-]
-
-
-
-
-[{
-		"title": "ملخّصات و أهداف",
+	},
+ {
+		"title": "رابط 2 مباشر",
+		"drawable": "",
+		"submenu": " ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.as-koora.com/?fbclid=IwAR0QbdP3-9ygfmS9Fxmz5cbRGZ4OLSnz7BcBE7ZhmsJwtPeT2C3f9uWIihM"
+			]
+		}]
+	},
+ {
+		"title": "رابط 3 مباشر",
+		"drawable": "",
+		"submenu": "جودة عالية ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+			]
+		}]
+	},
+ {
+		"title": "رابط 4 مباشر",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
-		"tabs": [
-
-			{
-				"title": "Club Africain",
-				"provider": "youtube",
-				"arguments": [
-					"UCgHuJqs1kOeJSmVlehBPELQ",
-					"channel"
-
-				]
-			}, 
-      {
-				"title": "Club Africain 2",
-				"provider": "youtube",
-				"arguments": [
-					"UCEDXR5aarXwt-3kdKbpmASw",
-					"channel"
-
-				]
-			},
-      {
-				"title": "Clubiste TV1",
-				"provider": "youtube",
-				"arguments": [
-					"UCnVNi_NYugGLP29bB8YH_nQ",
-					"channel"
-
-				]
-			},
-      {
-				"title": "Iyed SK",
-				"provider": "youtube",
-				"arguments": [
-					"UCHWm04smNqG7N9rCwzZ1Y1g",
-					"channel"
-
-				]
-			},
-      {
-				"title": "المملكة الإفريقية",
-				"provider": "youtube",
-				"arguments": [
-					"UCJJYCNfMykOJHOC_OZPFrlQ",
-					"channel"
-
-				]
-			},
-      {
-				"title": "TOP Football TN",
-				"provider": "youtube",
-				"arguments": [
-					"UCXEvtyhAE2iXh2-r7TlAh2A",
-					"channel"
-
-				]
-			},
-      {
-				"title": "ShowGames",
-				"provider": "youtube",
-				"arguments": [
-					"UCedx87MtRE_x3DxPdHaIw_w",
-					"channel"
-
-				]
-			},
-      
-				{
-				"title": "foot24",
-				"provider": "youtube",
-				"arguments": [
-					"UCuPDFRItTEn34XWqAcdCgNg",
-					"channel"
-
-				]
-			},
-      
-				{
-				"title": "TN Sport HD",
-				"provider": "youtube",
-				"arguments": [
-					"UCshowwqv0gW1PMWi9ArLEvQ",
-					"channel"
-
-				]
-			},
-      
-				{
-				"title": "السوبر Pippo",
-				"provider": "youtube",
-				"arguments": [
-					"UCVCRGGMJQjGZ3QAzKUcRccA",
-					"channel"
-
-				]
-			},
-      
-				{
-				"title": "TREZEGOL",
-				"provider": "youtube",
-				"arguments": [
-					"UCYLBsSGqoDSrW5BQyUlZREQ",
-					"channel"
-
-				]
-			},
-				{
-				"title": "المحترفين المصريين",
-				"provider": "youtube",
-				"arguments": [
-					"UCHEIO-7w6vgPHU2pTXP9rkA",
-					"channel"
-
-				]
-			},
-      {
-				"title": "Iyed SK",
-				"provider": "youtube",
-				"arguments": [
-					"UCHWm04smNqG7N9rCwzZ1Y1g",
-					"channel"
-
-				]
-			},
-
-		]
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.kooora2day.com//"
+			]
+		}]
+	},
+ {
+		"title": "رابط 5 مباشر",
+		"drawable": "",
+		"submenu": " تغطية لجلّ المباريات ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.kora-star.tv/"
+			]
+		}]
 	},
  
- 
-  {
+ {
+		"title": "رابط 6 مباشر",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://juventusstream.com/live/"
+			]
+		}]
+	},
+ {
 		"title": "A propos",
 		"drawable": "",
 		"submenu": "autres",
@@ -187,10 +265,8 @@
 			"title": "",
 			"provider": "custom",
 			"arguments": [
-				"com.knoooz.ifriki.SettingsFragment", "fragment"
+				"com.korakora.af.kpa.SettingsFragment", "fragment"
 			]
 		}]
 	}
 ]
-
-
