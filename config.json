@@ -1,3 +1,276 @@
+
+{
+		"title": "Tv Algérie",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "Ennahar tv",
+				"provider": "youtube",
+				"arguments": [
+					"UC57OCoLoU6zAtBdJOmwg2vA",
+					"channel"
+
+				]
+			},
+			
+
+			{
+				"title": "EchoroukTV",
+				"provider": "youtube",
+				"arguments": [
+					"UCd9ox6D3VbhNp3kJNTxQzCQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "El Djazairia One",
+				"provider": "youtube",
+				"arguments": [
+					"UCZX_vgW4txoI-AHhxg1ef_A",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Echorouk Plus",
+				"provider": "youtube",
+				"arguments": [
+					"UCmTDhubkwcq20x9CuXyKhfg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "ELBILAD TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCfF6CkUvCBleM19CkgNyrYw",
+					"channel"
+
+				]
+			},
+			
+			
+		  {
+				"title": "NumidiaTV",
+				"provider": "youtube",
+				"arguments": [
+					"UCZvLExKiOeUjbwAocZ7UVxg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "El-Heddaf TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCKOIWjRq0F6sxbzq-CSY4Rg",
+					"channel"
+
+				]
+			},
+			
+			{
+        "title":"Dzaïr TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCD7bJZnXmxpOy3ZL-kIgy_A",
+          "channel"
+
+        ]
+     }
+	    ,
+			{
+				"title": "Canal Algérie",
+				"provider": "youtube",
+				"arguments": [
+					"UCShOIepd16caAKmnqjX_7Cg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "قناة المغاربية",
+				"provider": "youtube",
+				"arguments": [
+					"UCwKS2U-DwjPZZvM6mSXPKgA",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Samira tv ",
+				"provider": "youtube",
+				"arguments": [
+					"UCmALBegTZvVvQaSDoHLKxlA",
+					"channel"
+
+				]
+			},{
+				"title": "El Hayat TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCfOU7pvD66X5yVTNIbOhILw",
+					"channel"
+
+				]
+			},
+			{
+				"title": "El Fadjer TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCeBvxdpIZJrV6wfoXAZn5xw",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Bahia tv dz",
+				"provider": "youtube",
+				"arguments": [
+					"UCVPYxRwABBUNabpB5-5-fBQ",
+					"channel"
+
+				]
+			}, 
+			{
+				"title": "Beur tv",
+				"provider": "youtube",
+				"arguments": [
+					"UCAy5nPrbVk_jxcQJyKnP81Q",
+					"channel"
+
+				]
+			},
+					
+      {
+				"title": "La Troisieme chaine",
+				"provider": "youtube",
+				"arguments": [
+					"UCozHZC0Q0fcU8OjraVLA4FQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "AlHadath الحدث",
+				"provider": "youtube",
+				"arguments": [
+					"UCrj5BGAhtWxDfqbza9T9hqA",
+					"channel"
+
+				]
+			},
+{
+				"title": "فرانس 24 ",
+				"provider": "youtube",
+				"arguments": [
+					"UCdTyuXgmJkG_O8_75eqej-w",
+					"channel"
+
+				]
+			},
+			{
+				"title": "قناة الجزيرة",
+				"provider": "youtube",
+				"arguments": [
+					"UCfiwzLy-8yKzIbsmZTzxDgw",
+					"channel"
+
+				]
+			},
+{
+				"title": "العربية",
+				"provider": "youtube",
+				"arguments": [
+					"UCahpxixMCwoANAftn6IxkTg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "System Dz",
+				"provider": "youtube",
+				"arguments": [
+					"UCHfMP69i2J9bpXBGklXiTiw",
+					"channel"
+
+				]
+},
+			
+{
+				"title": "ELMehdi TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCE7DWbUZyZhm_ke4tI1qRxg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Show Tube",
+				"provider": "youtube",
+				"arguments": [
+					"UCMP1Vcd1z_zoPy6cXci5MOw",
+					"channel"
+
+				]
+			},
+{
+				"title": "FootballMinds",
+				"provider": "youtube",
+				"arguments": [
+					"UCzYQ8uWmB2xoJh_SnZzAXzA",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Football Legion",
+				"provider": "youtube",
+				"arguments": [
+					"UCt9Pp8PeNXuVqpjrSSWbmlA",
+					"channel"
+
+				]
+			},
+
+			{
+				"title": "اولتراس تيوب",
+				"provider": "youtube",
+				"arguments": [
+					"UCHfhwuaO2bAAAr2x-QVn3nQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "ElKaweer",
+				"provider": "youtube",
+				"arguments": [
+					"UCvRbdoDaIeiY6umPJg1L0KA",
+					"channel"
+
+
+		]
+},
+			{
+				"title": "كورة وبس ",
+				"provider": "youtube",
+				"arguments": [
+					"UCmkU2u5YjpJjPc0MoHhA6sg",
+					"channel"
+
+				]
+			}
+
+		]
+	},
+
 [{
 		"title": "ملخّصات و أهداف",
 		"drawable": "",
